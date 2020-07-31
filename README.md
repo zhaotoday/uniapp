@@ -9,7 +9,7 @@
 
 #### Vue 基础
 - [Vue 中文官网](https://cn.vuejs.org/)
-> 第一次可以简单过一遍。
+> 第一次简单过一遍就可以。
 
 #### UniApp 基础
 - [uniapp 官网](https://uniapp.dcloud.io/)
