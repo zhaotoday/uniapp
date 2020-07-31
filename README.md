@@ -15,6 +15,10 @@
 #### UniApp 基础
 - [UniApp 官网](https://uniapp.dcloud.io/)
 
+#### 视频教程
+- [Vue 教程](https://learning.dcloud.io/#/)
+
 #### 规范
+- [Vue 风格指南](https://cn.vuejs.org/v2/style-guide/)
 
 #### 框架/组件/库
