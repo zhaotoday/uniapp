@@ -21,6 +21,7 @@
 #### 规范
 - [Vue 风格指南](https://cn.vuejs.org/v2/style-guide/)
 - [BEM 命名规范](https://github.com/zhaotoday/bem)
+- [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
 #### 框架/组件/库
 - [Sass 工具库](https://github.com/zhaotoday/sass-utils)
