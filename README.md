@@ -26,3 +26,7 @@
 #### 框架/组件/库
 - [Sass 工具库](https://github.com/zhaotoday/sass-utils)
 - [UniApp 组件库](https://github.com/zhaotoday/vue-mobile)
+- [uView](https://github.com/umicro/uView2.0)
+- [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
+- [ColorUI](https://github.com/weilanwl/ColorUI)
+- [CoolUni](https://github.com/cool-team-official/cool-uni)
