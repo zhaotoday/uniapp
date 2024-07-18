@@ -35,3 +35,4 @@
 - [uni-mini-ci](https://github.com/Moonofweisheng/uni-mini-ci)
 - [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni)
 - [axios-adapter](https://github.com/uni-helper/axios-adapter)
+- [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages)
