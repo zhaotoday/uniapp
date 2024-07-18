@@ -32,3 +32,4 @@
 
 #### 工具
 - [uni-helper](https://github.com/uni-helper)
+- [uni-mini-ci](https://github.com/Moonofweisheng/uni-mini-ci)
