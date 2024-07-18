@@ -36,3 +36,4 @@
 - [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni)
 - [axios-adapter](https://github.com/uni-helper/axios-adapter)
 - [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages)
+- [uni-use](https://github.com/uni-helper/uni-use/blob/main/src/readme.md)
