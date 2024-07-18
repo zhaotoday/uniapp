@@ -23,6 +23,10 @@
 - [BEM 命名规范](https://github.com/zhaotoday/bem)
 - [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
+#### 相关资源
+- [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
+- [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
+
 #### 组件库
 - [uView](https://github.com/umicro/uView2.0)
 - [FirstUI](https://github.com/FirstUI/FirstUI)
