@@ -37,3 +37,4 @@
 - [axios-adapter](https://github.com/uni-helper/axios-adapter)
 - [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages)
 - [uni-use](https://github.com/uni-helper/uni-use/blob/main/src/readme.md)
+- [uni-network](https://github.com/uni-helper/uni-network)
