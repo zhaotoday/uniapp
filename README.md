@@ -23,6 +23,10 @@
 - [BEM 命名规范](https://github.com/zhaotoday/bem)
 - [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
+#### 项目模板
+- [unibest](https://github.com/codercup/unibest)
+- [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
+
 #### 相关资源
 - [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
 - [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
