@@ -32,6 +32,7 @@
 - [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
 
 #### 组件库
+- [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni)
 - [uView](https://github.com/umicro/uView2.0)
 - [FirstUI](https://github.com/FirstUI/FirstUI)
 - [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
