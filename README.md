@@ -26,6 +26,7 @@
 #### 项目模板
 - [unibest](https://github.com/codercup/unibest)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
+- [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse)
 
 #### 相关资源
 - [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
