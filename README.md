@@ -28,6 +28,9 @@
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse)
 
+#### 文档
+- [UI 库选型篇](https://codercup.github.io/unibest-docs/base/ui/ui)
+
 #### 相关资源
 - [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
 - [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
