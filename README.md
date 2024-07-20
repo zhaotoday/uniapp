@@ -35,13 +35,16 @@
 - [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
 - [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
 
-#### 组件库
+#### UI 库
 - [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni)
 - [uView](https://github.com/umicro/uView2.0)
 - [FirstUI](https://github.com/FirstUI/FirstUI)
 - [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
 - [ColorUI](https://github.com/weilanwl/ColorUI)
 - [CoolUni](https://github.com/cool-team-official/cool-uni)
+
+#### 相关库
+- [@uview-plus/types](https://www.npmjs.com/package/@uview-plus/types)
 
 #### 工具
 - [uni-helper](https://github.com/uni-helper)
