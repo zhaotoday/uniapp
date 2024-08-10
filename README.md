@@ -27,6 +27,7 @@
 - [unibest](https://github.com/codercup/unibest)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse)
+- [create uni](https://github.com/uni-helper/create-uni)
 
 #### 文档
 - [UI 库选型篇](https://codercup.github.io/unibest-docs/base/ui/ui)
