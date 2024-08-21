@@ -25,6 +25,7 @@
 
 #### 项目模板
 - [unibest](https://github.com/codercup/unibest)
+- [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse)
 - [create uni](https://github.com/uni-helper/create-uni)
