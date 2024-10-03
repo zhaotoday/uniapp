@@ -23,6 +23,9 @@
 - [BEM 命名规范](https://github.com/zhaotoday/bem)
 - [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
+#### 文章
+- [微信小程序长按图片保存到相册的3种方法](https://www.cnblogs.com/moranjl/p/16371005.html)
+
 #### 项目模板
 - [unibest](https://github.com/codercup/unibest)
 - [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
