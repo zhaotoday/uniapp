@@ -51,6 +51,7 @@
 #### 相关库
 - [@uview-plus/types](https://www.npmjs.com/package/@uview-plus/types)
 - [uni-use](https://github.com/uni-helper/uni-use/blob/main/src/readme.md)
+- [uni-network](https://github.com/uni-helper/uni-network)
 
 #### 工具
 - [uni-helper](https://github.com/uni-helper)
