@@ -62,3 +62,6 @@
 - [uni-use](https://github.com/uni-helper/uni-use/blob/main/src/readme.md)
 - [uni-network](https://github.com/uni-helper/uni-network)
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
+
+#### 开源
+- [open-im-uniapp](https://github.com/openimsdk/open-im-uniapp-demo)
