@@ -67,4 +67,4 @@
 - [open-im-uniapp](https://github.com/openimsdk/open-im-uniapp-demo)
 - [shopxo-uniapp](https://github.com/gongfuxiang/shopxo-uniapp)
 - [mall4j](https://github.com/gz-yami/mall4j)
-  
+- [yudao-mall-uniapp](https://github.com/yudaocode/yudao-mall-uniapp)
