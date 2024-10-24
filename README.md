@@ -65,3 +65,4 @@
 
 #### 开源
 - [open-im-uniapp](https://github.com/openimsdk/open-im-uniapp-demo)
+- [shopxo-uniapp](https://github.com/gongfuxiang/shopxo-uniapp)
