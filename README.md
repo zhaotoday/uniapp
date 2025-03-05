@@ -25,6 +25,7 @@
 
 #### 文章
 - [微信小程序长按图片保存到相册的3种方法](https://www.cnblogs.com/moranjl/p/16371005.html)
+- [H5端向App端通信](https://juejin.cn/post/7473396397519093760)
 
 #### 项目模板
 - [unibest](https://github.com/codercup/unibest)
