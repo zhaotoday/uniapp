@@ -70,3 +70,4 @@
 - [mall4j](https://github.com/gz-yami/mall4j)
 - [yudao-mall-uniapp](https://github.com/yudaocode/yudao-mall-uniapp)
 - [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+- [vue-mini](https://github.com/vue-mini/vue-mini)
