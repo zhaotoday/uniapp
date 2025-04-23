@@ -34,6 +34,7 @@
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse)
 - [create uni](https://github.com/uni-helper/create-uni)
+- [uni-vue3](https://github.com/vue-rookie/uni-vue3)
 
 #### 文档
 - [UI 库选型篇](https://codercup.github.io/unibest-docs/base/ui/ui)
