@@ -24,6 +24,7 @@
 - [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
 #### 文章
+- [小程序实现根据环境（正式版、开发版等）自动切换baseUrl](https://juejin.cn/post/7454490869981986866)
 - [微信小程序长按图片保存到相册的3种方法](https://www.cnblogs.com/moranjl/p/16371005.html)
 - [H5端向App端通信](https://juejin.cn/post/7473396397519093760)
 
