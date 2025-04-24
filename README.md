@@ -57,6 +57,7 @@
 - [uni-network](https://github.com/uni-helper/uni-network)
 
 #### 工具
+- [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci)
 - [uni-helper](https://github.com/uni-helper)
 - [uni-mini-ci](https://github.com/Moonofweisheng/uni-mini-ci)
 - [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni)
