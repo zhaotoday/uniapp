@@ -30,7 +30,8 @@
 - [H5端向App端通信](https://juejin.cn/post/7473396397519093760)
 
 #### 项目模板
-- [unibest](https://github.com/codercup/unibest)
+- [unibest](https://github.com/feige996/unibest)
+- [unibest（旧）](https://github.com/codercup/unibest)
 - [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse)
