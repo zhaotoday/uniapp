@@ -70,6 +70,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [lottie-miniprogram](https://github.com/wechat-miniprogram/lottie-miniprogram)
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
 - [open-im-uniapp](https://github.com/openimsdk/open-im-uniapp-demo)
 - [shopxo-uniapp](https://github.com/gongfuxiang/shopxo-uniapp)
