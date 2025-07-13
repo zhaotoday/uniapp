@@ -50,6 +50,7 @@
 - [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
 
 #### UI 库
+- [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp)
 - [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni)
 - [uView](https://github.com/umicro/uView2.0)
 - [FirstUI](https://github.com/FirstUI/FirstUI)
