@@ -40,6 +40,7 @@
 - [uni-vue3](https://github.com/vue-rookie/uni-vue3)
 - [uni-plus](https://github.com/DaMaiCoding/uni-plus)
 - [uniapp-template](https://github.com/yang1206/uniapp-template)
+- [vite-uniapp-template](https://github.com/viarotel-org/vite-uniapp-template)
 
 #### 文档
 - [UI 库选型篇](https://codercup.github.io/unibest-docs/base/ui/ui)
