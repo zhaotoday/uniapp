@@ -30,6 +30,7 @@
 - [H5端向App端通信](https://juejin.cn/post/7473396397519093760)
 
 #### 项目模板
+- [JeecgUniapp](https://github.com/jeecgboot/JeecgUniapp)
 - [unibest](https://github.com/feige996/unibest)
 - [unibest（旧）](https://github.com/codercup/unibest)
 - [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
