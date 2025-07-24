@@ -31,7 +31,7 @@
 
 #### 项目模板
 - [JeecgUniapp](https://github.com/jeecgboot/JeecgUniapp)
-- [unibest](https://github.com/feige996/unibest)
+- [unibest](https://github.com/unibest-tech/unibest)
 - [unibest（旧）](https://github.com/codercup/unibest)
 - [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
