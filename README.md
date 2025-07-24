@@ -24,6 +24,7 @@
 - [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
 #### 文章
+- [2025 跨平台框架更新和发布对比，这是你没看过的全新版本](https://juejin.cn/post/7505578411492474915)
 - [小程序自动化构建与版本管理方案优化](https://juejin.cn/post/7491607061781315647)
 - [小程序实现根据环境（正式版、开发版等）自动切换baseUrl](https://juejin.cn/post/7454490869981986866)
 - [微信小程序长按图片保存到相册的3种方法](https://www.cnblogs.com/moranjl/p/16371005.html)
