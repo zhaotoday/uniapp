@@ -23,6 +23,9 @@
 - [BEM 命名规范](https://github.com/zhaotoday/bem)
 - [Gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
+#### 平台
+- [移动应用统一链接平台](https://www.malink.cn/)
+
 #### 文章
 - [Uniapp 开发物联网项目MQTT通信使用和TTS语音播报以及无输入框扫描枪读取](https://juejin.cn/post/7491244536682790952)
 - [2025 跨平台框架更新和发布对比，这是你没看过的全新版本](https://juejin.cn/post/7505578411492474915)
