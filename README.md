@@ -84,6 +84,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer)
 - [z-paging](https://z-paging.zxlee.cn/)
 - [vuemini](https://vuemini.org/)
 - [uni-echarts](https://github.com/xiaohe0601/uni-echarts)
