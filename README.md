@@ -83,6 +83,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [vuemini](https://vuemini.org/)
 - [uni-echarts](https://github.com/xiaohe0601/uni-echarts)
 - [cool-unix](https://github.com/cool-team-official/cool-unix)
 - [lottie-miniprogram](https://github.com/wechat-miniprogram/lottie-miniprogram)
