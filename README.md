@@ -49,6 +49,7 @@
 - [uni-plus](https://github.com/DaMaiCoding/uni-plus)
 - [uniapp-template](https://github.com/yang1206/uniapp-template)
 - [vite-uniapp-template](https://github.com/viarotel-org/vite-uniapp-template)
+- [uniez-template](https://github.com/zhe-qi/uniez-template)
 
 #### 文档
 - [UI 库选型篇](https://codercup.github.io/unibest-docs/base/ui/ui)
