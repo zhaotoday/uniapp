@@ -84,6 +84,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [uni-env](https://github.com/uni-helper/uni-env)
 - [uni-ku/root](https://github.com/uni-ku/root)
 - [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer)
 - [z-paging](https://z-paging.zxlee.cn/)
