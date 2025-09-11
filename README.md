@@ -84,6 +84,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts)
 - [uni-env](https://github.com/uni-helper/uni-env)
 - [uni-ku/root](https://github.com/uni-ku/root)
 - [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer)
