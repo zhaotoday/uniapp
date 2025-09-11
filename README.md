@@ -85,6 +85,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [api-typings](https://github.com/wechat-miniprogram/api-typings)
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components)
 - [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts)
 - [uni-env](https://github.com/uni-helper/uni-env)
