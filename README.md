@@ -77,6 +77,7 @@
 - [uni-network](https://github.com/uni-helper/uni-network)
 
 #### 工具
+- [uni-ku/bundle-optimizer](https://github.com/uni-ku/bundle-optimizer)
 - [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci)
 - [uni-helper](https://github.com/uni-helper)
 - [uni-mini-ci](https://github.com/Moonofweisheng/uni-mini-ci)
