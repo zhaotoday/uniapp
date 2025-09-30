@@ -89,6 +89,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [miniprogram-compat](https://github.com/wechat-miniprogram/miniprogram-compat)
 - [vite-plugin-uni-platform-modifier](https://github.com/uni-helper/vite-plugin-uni-platform-modifier)
 - [vite-plugin-uni-components](https://uni-helper.js.org/vite-plugin-uni-components/)
 - [api-typings](https://github.com/wechat-miniprogram/api-typings)
