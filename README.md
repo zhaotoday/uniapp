@@ -62,6 +62,9 @@
 - [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
 - [uniapp-awesome](https://github.com/dongCode/uniapp-awesome)
 
+#### 竞品
+- [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue)
+
 #### UI 库
 - [sard-uniapp](https://github.com/sutras/sard-uniapp)
 - [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp)
