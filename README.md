@@ -28,6 +28,7 @@
 - [移动应用统一链接平台](https://www.malink.cn/)
 
 #### 文章
+- [uni-app 无法实现全局 Toast？这个方法做到了！](https://juejin.cn/post/7538282563053010953)
 - [小程序如何实现收益](https://www.anygraphanywhere.com/automap/mindmap.html?link=1759030394039-1759030394039)
 - [uniapp-使用mumu模拟器调试安卓APP](https://juejin.cn/post/7536732876042747913)
 - [三分钟实现H5页面国内主流机型自动跳转app下载页](https://juejin.cn/post/7537186215654850575)
