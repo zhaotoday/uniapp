@@ -28,6 +28,7 @@
 - [移动应用统一链接平台](https://www.malink.cn/)
 
 #### 文章
+- [重新思考 weapp-tailwindcss 的未来](https://juejin.cn/post/7569536278254125092)
 - [Snapchat 开源全新跨平台框架 Valdi ，一起来搞懂它究竟有什么特别之处](https://juejin.cn/post/7572697146288177202)
 - [uni-app 无法实现全局 Toast？这个方法做到了！](https://juejin.cn/post/7538282563053010953)
 - [小程序如何实现收益](https://www.anygraphanywhere.com/automap/mindmap.html?link=1759030394039-1759030394039)
