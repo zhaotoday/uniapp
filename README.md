@@ -96,6 +96,8 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)
+- [weapp-vite](https://github.com/weapp-vite/weapp-vite)
 - [platform-wxshop](https://github.com/lipengjun92/platform-wxshop)
 - [miniprogram-compat](https://github.com/wechat-miniprogram/miniprogram-compat)
 - [vite-plugin-uni-platform-modifier](https://github.com/uni-helper/vite-plugin-uni-platform-modifier)
