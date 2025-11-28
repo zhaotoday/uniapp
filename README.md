@@ -78,6 +78,7 @@
 - [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
 - [ColorUI](https://github.com/weilanwl/ColorUI)
 - [CoolUni](https://github.com/cool-team-official/cool-uni)
+- [tdesign-uniapp](https://github.com/novlan1/tdesign-uniapp)
 
 #### 相关库
 - [@uview-plus/types](https://www.npmjs.com/package/@uview-plus/types)
