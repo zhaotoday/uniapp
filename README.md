@@ -69,6 +69,7 @@
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue)
 
 #### UI 库
+- [uview-plus](https://github.com/ijry/uview-plus)
 - [uview-pro](https://github.com/anyup/uview-pro)
 - [sard-uniapp](https://github.com/sutras/sard-uniapp)
 - [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp)
