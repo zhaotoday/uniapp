@@ -44,6 +44,7 @@
 - [H5端向App端通信](https://juejin.cn/post/7473396397519093760)
 
 #### 项目模板
+- [wot-starter](https://github.com/wot-ui/wot-starter)
 - [snail-uni](https://github.com/hu-snail/snail-uni)
 - [wot-demo](https://github.com/wot-ui/wot-demo)
 - [JeecgUniapp](https://github.com/jeecgboot/JeecgUniapp)
