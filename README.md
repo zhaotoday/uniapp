@@ -28,6 +28,7 @@
 - [移动应用统一链接平台](https://www.malink.cn/)
 
 #### 文章
+- [【AI 编程实战】第 2 篇：让 AI 成为你的前端架构师 - UniApp + Vue3 项目初始化](https://juejin.cn/post/7581437632855015464)
 - [uni-app 网络请求终极选型：uni.request、axios、uni-network、alova 谁才是你的真命请求库？](https://juejin.cn/post/7536408000722911258)
 - [记uniapp开发App应用遇到的一些坑](https://juejin.cn/post/7486842883061628966)
 - [重新思考 weapp-tailwindcss 的未来](https://juejin.cn/post/7569536278254125092)
