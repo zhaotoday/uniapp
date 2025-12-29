@@ -28,6 +28,7 @@
 - [移动应用统一链接平台](https://www.malink.cn/)
 
 #### 文章
+- [Expo：写 App 这件事，终于不用碰 Xcode 和 Android studio 啦，性能还不错](https://juejin.cn/post/7561041405100048419)
 - [用 AI 驱动 wot-design-uni 开发小程序](https://juejin.cn/post/7523368863020843059)
 - [【AI 编程实战】第 2 篇：让 AI 成为你的前端架构师 - UniApp + Vue3 项目初始化](https://juejin.cn/post/7581437632855015464)
 - [uni-app 网络请求终极选型：uni.request、axios、uni-network、alova 谁才是你的真命请求库？](https://juejin.cn/post/7536408000722911258)
