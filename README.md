@@ -107,6 +107,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [mpx](https://github.com/didi/mpx)
 - [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)
 - [weapp-vite](https://github.com/weapp-vite/weapp-vite)
 - [platform-wxshop](https://github.com/lipengjun92/platform-wxshop)
