@@ -74,6 +74,7 @@
 
 #### 竞品
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue)
+- [finclip](https://www.finclip.com/)
 
 #### UI 库
 - [fantastic-mobile](https://github.com/fantastic-mobile/basic)
