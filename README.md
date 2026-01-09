@@ -67,6 +67,7 @@
 
 #### 文档
 - [UI 库选型篇](https://codercup.github.io/unibest-docs/base/ui/ui)
+- [微信同声传译](https://fuwu.weixin.qq.com/service/detail/0000c6950745e87d6c5a143845c815)
 
 #### 相关资源
 - [awesome-uni-app](https://github.com/uni-helper/awesome-uni-app)
