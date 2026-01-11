@@ -110,6 +110,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [webim-uniapp-demo](https://github.com/easemob/webim-uniapp-demo)
 - [mpx](https://github.com/didi/mpx)
 - [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)
 - [weapp-vite](https://github.com/weapp-vite/weapp-vite)
