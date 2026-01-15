@@ -103,6 +103,7 @@
 - [uni-ku/bundle-optimizer](https://github.com/uni-ku/bundle-optimizer)
 - [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci)
 - [uni-helper](https://github.com/uni-helper)
+- [@uni-helper/unh](https://uni-helper.js.org/unh/installation/)
 - [uni-mini-ci](https://github.com/Moonofweisheng/uni-mini-ci)
 - [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni)
 - [axios-adapter](https://github.com/uni-helper/axios-adapter)
