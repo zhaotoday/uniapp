@@ -99,6 +99,7 @@
 - [uni-network](https://github.com/uni-helper/uni-network)
 
 #### 工具
+- [uni-vue-devtools](https://uniapp.dcloud.net.cn/tutorial/debug/uni-vue-devtools.html)
 - [eruda](https://github.com/liriliri/eruda)
 - [vConsole](https://github.com/Tencent/vConsole)
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web)
