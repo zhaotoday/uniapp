@@ -99,6 +99,7 @@
 - [uni-network](https://github.com/uni-helper/uni-network)
 
 #### 工具
+- [eruda](https://github.com/liriliri/eruda)
 - [vConsole](https://github.com/Tencent/vConsole)
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web)
 - [uni-ku/bundle-optimizer](https://github.com/uni-ku/bundle-optimizer)
