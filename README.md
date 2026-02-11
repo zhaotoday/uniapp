@@ -120,6 +120,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [uni-promises](https://github.com/uni-helper/uni-promises)
 - [webim-uniapp-demo](https://github.com/easemob/webim-uniapp-demo)
 - [mpx](https://github.com/didi/mpx)
 - [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)
