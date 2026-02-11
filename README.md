@@ -93,6 +93,7 @@
 - [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
 - [ColorUI](https://github.com/weilanwl/ColorUI)
 - [CoolUni](https://github.com/cool-team-official/cool-uni)
+- [tdesign](https://github.com/Tencent/tdesign)
 - [tdesign-uniapp](https://github.com/novlan1/tdesign-uniapp)
 
 #### 相关库
