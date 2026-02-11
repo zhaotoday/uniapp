@@ -28,6 +28,7 @@
 - [移动应用统一链接平台](https://www.malink.cn/)
 
 #### 文章
+- [Vue 2 和 Vue 3 的 API Promise 化](https://uniapp.dcloud.net.cn/api/#vue-2-%E5%92%8C-vue-3-%E7%9A%84-api-promise-%E5%8C%96)
 - [基于uniapp的PDA手持设备红外扫码方案](https://juejin.cn/post/7579819594270916646)
 - [uniapp AI流式问答对话，问答内容支持图片和视频，支持app和H5](https://juejin.cn/post/7517253451874877477)
 - [小程序开发体验差，你试过 PageSpy 了吗？](https://juejin.cn/post/7461626575207825434)
