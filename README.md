@@ -121,6 +121,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [@uni-helper/unh](https://uni-helper.js.org/unh/installation/)
 - [uniapp-promisify](https://github.com/MaikoTan/uniapp-promisify)
 - [uni-promises](https://github.com/uni-helper/uni-promises)
 - [webim-uniapp-demo](https://github.com/easemob/webim-uniapp-demo)
