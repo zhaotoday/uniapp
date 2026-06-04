@@ -122,6 +122,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### 开源
+- [lilishop-uniapp](https://github.com/lilishop/lilishop-uniapp)
 - [oiyo](https://github.com/skiyee/oiyo)
 - [@uni-helper/unh](https://uni-helper.js.org/unh/installation/)
 - [uniapp-promisify](https://github.com/MaikoTan/uniapp-promisify)
