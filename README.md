@@ -125,6 +125,7 @@
 #### uni-app x
 - [uview-unix](https://uview-unix.d3u.cn/)
 - [cool-unix](https://github.com/cool-team-official/cool-unix)
+- [@limeui/unocss-preset](https://www.npmjs.com/package/@limeui/unocss-preset)
 
 #### 开源
 - [cos-wx-sdk-v5](https://github.com/tencentyun/cos-wx-sdk-v5)
