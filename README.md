@@ -127,6 +127,7 @@
 - [cool-unix](https://github.com/cool-team-official/cool-unix)
 - [@limeui/unocss-preset](https://www.npmjs.com/package/@limeui/unocss-preset)
 - [uni-chat-x](https://github.com/wildfirechat/uni-chat-x)
+- [uni-toolkit](https://github.com/uni-toolkit/uni-toolkit)
 
 #### 开源
 - [cos-wx-sdk-v5](https://github.com/tencentyun/cos-wx-sdk-v5)
