@@ -123,6 +123,7 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
 #### uni-app x
+- [uview-unix](https://uview-unix.d3u.cn/)
 - [cool-unix](https://github.com/cool-team-official/cool-unix)
 
 #### 开源
