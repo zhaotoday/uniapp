@@ -128,6 +128,7 @@
 - [@limeui/unocss-preset](https://www.npmjs.com/package/@limeui/unocss-preset)
 - [uni-chat-x](https://github.com/wildfirechat/uni-chat-x)
 - [uni-toolkit](https://github.com/uni-toolkit/uni-toolkit)
+- [uview-ultra](https://github.com/ijry/uview-ultra)
 
 #### 开源
 - [cos-wx-sdk-v5](https://github.com/tencentyun/cos-wx-sdk-v5)
