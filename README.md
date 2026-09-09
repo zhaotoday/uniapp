@@ -122,6 +122,9 @@
 - [uni-network](https://github.com/uni-helper/uni-network)
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet/blob/main/README.zh-CN.md)
 
+#### uni-app x
+- [cool-unix](https://github.com/cool-team-official/cool-unix)
+
 #### 开源
 - [cos-wx-sdk-v5](https://github.com/tencentyun/cos-wx-sdk-v5)
 - [luch-request](https://github.com/lei-mu/luch-request)
@@ -147,7 +150,6 @@
 - [z-paging](https://z-paging.zxlee.cn/)
 - [vuemini](https://vuemini.org/)
 - [uni-echarts](https://github.com/xiaohe0601/uni-echarts)
-- [cool-unix](https://github.com/cool-team-official/cool-unix)
 - [lottie-miniprogram](https://github.com/wechat-miniprogram/lottie-miniprogram)
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)
 - [open-im-uniapp](https://github.com/openimsdk/open-im-uniapp-demo)
